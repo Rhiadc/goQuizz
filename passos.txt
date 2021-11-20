@@ -1,0 +1,8 @@
+Escolher arquivo csv com flag (com algum default)
+Ler arquivo csv
+Mostrar linha pro usuário como pergunta
+Receber uma resposta
+Contabilizar resposta
+Fechar arquivo 
+Mostrar resultado final pro usuario
+
